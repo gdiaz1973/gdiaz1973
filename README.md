@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdiaz1973
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning javascript, nodejs
+- 🌱 I’m currently learning javascript, nodejs, angular, docker, microservices, Computer Vision, AWS, Mysql, Postgres
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
